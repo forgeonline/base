@@ -25,6 +25,14 @@
     },
     "type": "magento2-module",
     "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Don Nuwinda",
+            "email": "nuwinda@forgeonline.co.nz",
+            "homepage": "http://forgeonline.co.nz",
+            "role": "Developer"
+        }
+    ],
     "license": [
         "OSL-3.0",
         "AFL-3.0"

@@ -1,5 +1,5 @@
 <?php
-namespace Stepzerosolutions\Base\Command;
+namespace Forgeonline\Base\Command;
 
 
 use Symfony\Component\Console\Command\Command;
